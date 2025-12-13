@@ -1,91 +1,69 @@
 # Hi, I'm Yisa Ajibola Ahmed 👋  
-### Data Analyst | Client Insights | Business Performance | Forecasting  
+### Data Analyst | Client Insights | Regulatory Analytics | Forecasting | KPI Reporting
 
-I am a data-driven analyst with real-world experience in **data analysis, forecasting, KPI reporting, and business insights**, gained across analytics, hospitality operations, and business roles.  
+I’m a Business & Data Analyst with **~5 years’ combined experience** across **client insights, regulatory data, forecasting, KPI reporting, and dashboards**.  
+I turn complex datasets into **clear insights, stories, and recommendations** for stakeholders.
 
-I specialise in turning complex datasets into **clear narratives and recommendations** that help teams make smarter decisions.  
-My goal is to work in a high-impact analytics role such as **Global Senior Client Analyst / Data Analyst / Insights Analyst**.
-
----
-
-## 🔧 Technical Skills
-- **Excel:** Pivot Tables, Power Query, Dashboards, Data Cleaning  
-- **SQL:** Data extraction, joins, aggregations, validation  
-- **Tableau & Power BI:** KPI dashboards, performance reporting  
-- **Analytics:** forecasting, trend analysis, variance (budget vs actual)  
-- **Business Skills:** stakeholder communication, insight storytelling, KPI development  
+📍 Dublin, Ireland | 📧 yisaajibola101@gmail.com | 🔗 LinkedIn: www.linkedin.com/in/ajibola-yisa-a90a54282
 
 ---
 
-## 📂 Featured Projects
-
-### 📊 1. Client Insights Report — Business Performance Analysis  
-**Tools:** Excel, SQL, Tableau  
-A full insights report analysing sales, trends, customer behaviour, and performance KPIs.  
-Includes:
-- KPI summary dashboard  
-- Identified performance gaps and opportunities  
-- Recommendations based on data  
-- Visual story for stakeholders  
-
-🔗 *Repo link (add once you create it)*
+## 🔧 Core Skills
+- **SQL:** joins, aggregations, validation, reporting extracts  
+- **Excel:** Power Query, PivotTables, dashboards, data cleaning, forecasting models  
+- **Tableau / Power BI:** KPI dashboards, performance reporting, storytelling  
+- **Analytics:** trend analysis, variance (budget vs actual), KPI design, forecasting  
+- **Stakeholders:** client reporting, insight writing, presenting findings clearly
 
 ---
 
-### 📈 2. Sales Forecasting Model (Excel + Forecasting Techniques)  
-A forecasting project based on your real experience forecasting sales and inventory impact.  
-Includes:
-- Forecast model  
-- Trend and seasonality analysis  
-- Budget vs actual comparison  
-- Insights for reducing stock-outs and overstock  
+## 💼 Experience Snapshot
+**Data Analyst (Remote/Hybrid) — Corlytics (Dublin) | Jul 2023 – Jun 2025**  
+- Cleaned and validated regulatory datasets and supported reporting cycles  
+- Built/maintained Tableau dashboards (regulatory trends, themes, risks)  
+- Used SQL for weekly/monthly extracts and insight reporting  
+- Contributed to client-facing reports and improved data processes
 
-🔗 *Repo link*
+**Senior Data Analyst — Weevil Company (Lagos) | Jan 2021 – Jun 2023**  
+- Built automated Excel dashboards and KPI reporting for management  
+- Forecasted demand and supported inventory optimisation decisions  
+- Delivered profitability/pricing insights for campaigns and launches
 
----
-
-### 📉 3. KPI Dashboard — Tableau / Power BI  
-Interactive dashboard tracking:
-- Sales  
-- Customer behaviour  
-- Operational performance  
-- Key business KPIs  
-
-Built using the same visual reporting techniques used in your roles.
-
-🔗 *Repo link*
+**Night Pub & Hotel Manager — Wetherspoon (Swords) | Summer 2025 – Present**  
+- Operational reporting, reconciliation, performance tracking, and incident reporting
 
 ---
 
-## 🧪 Additional Projects (Optional)
-- SQL Data Cleaning & Querying Demo  
-- Excel Data Cleaning Exercise  
-- Business Insights Case Study  
+## 📂 Featured Portfolio Projects (GitHub Repos)
+> Add links once you create each repository.
+
+### 1) Regulatory Insights Dashboard (Tableau)
+**Tools:** Tableau, SQL, Excel  
+- Dashboard showing regulatory trends, categories, and risk themes  
+- Data cleaning notes + stakeholder summary  
+🔗 Repo: (add link)
+
+### 2) Sales Forecasting + Budget vs Actual (Excel)
+**Tools:** Excel (Power Query, Pivot, forecasting)  
+- Forecast model + variance analysis  
+- Clear insights + recommendations  
+🔗 Repo: (add link)
+
+### 3) Client Insights Report (SQL + Visuals)
+**Tools:** SQL, Excel, Tableau/Power BI  
+- KPI pack + short written narrative for decision-makers  
+- Data dictionary + assumptions  
+🔗 Repo: (add link)
 
 ---
 
-## 💼 Professional Experience (Summary)
-
-### **Senior Data Analyst — Weevil Company**  
-Transformed operational and sales data into insights; built dashboards; forecasted demand; improved inventory performance; delivered KPI reporting for management.
-
-### **Sales Forecast Analyst — Food Manufacturing (via MCS Group)**  
-Created budget vs actual reports, sales forecasts, and weekly performance insights using Excel.
-
-### **Night Manager — Wetherspoon**  
-Used reporting, operations data, and insights to support nightly performance, staffing, and financial decisions.
+## 🧰 What I’m Building Next
+- More SQL case studies (CTEs, window functions)
+- Power BI dashboards with DAX measures
+- A small end-to-end “raw data → cleaned → dashboard → insights” project
 
 ---
 
-## 🎯 What I Bring  
-- Ability to **explain data to non-technical stakeholders**  
-- Experience preparing reports, dashboards, and insights  
-- Strong storytelling and presentation skills  
-- Business understanding from real operational environments  
-- Fast learner with strong attention to detail  
-
----
-
-## 📫 Contact Me  
-📧 **Email:** yisaajibola101@gmail.com  
-📍 **Location:** Dublin Ireland 
+## 📫 Contact
+Email: **yisaajibola101@gmail.com**  
+LinkedIn: **www.linkedin.com/in/ajibola-yisa-a90a54282**
