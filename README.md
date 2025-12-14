@@ -183,7 +183,7 @@ The structure and insights align with expectations for:
 ## 🧰 What I’m Building Next
 - More SQL case studies (CTEs, window functions)
 - Power BI dashboards with DAX measures
-- A small end-to-end “raw data → cleaned → dashboard → insights” project
+
 
 ---
 
