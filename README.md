@@ -178,7 +178,6 @@ The structure and insights align with expectations for:
 
 ---
 
-## 📁 Repository Structure
 
 
 ## 🧰 What I’m Building Next
