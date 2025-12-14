@@ -41,7 +41,16 @@ I turn complex datasets into **clear insights, stories, and recommendations** fo
 **Tools:** Tableau, SQL, Excel  
 - Dashboard showing regulatory trends, categories, and risk themes  
 - Data cleaning notes + stakeholder summary  
-🔗 Repo: (add link)
+## 📊 Dashboard Overview
+
+Below are key visuals from the interactive Tableau dashboard used in this analysis.
+
+### 🔹 Revenue Drivers, Promotion Impact & Material Analysis
+![Sales & Revenue Dashboard](images/dashboard_overview.png)
+
+### 🔹 Sales Volume & Revenue by Season and Origin 
+![Insights Dashboard](images/dashboard_insights.png)
+
 
 ### 2) Sales Forecasting + Budget vs Actual (Excel)
 **Tools:** Excel (Power Query, Pivot, forecasting)  
