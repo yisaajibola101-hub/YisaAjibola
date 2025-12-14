@@ -56,7 +56,66 @@ Below are key visuals from the interactive Tableau dashboard used in this analys
 **Tools:** Excel (Power Query, Pivot, forecasting)  
 - Forecast model + variance analysis  
 - Clear insights + recommendations  
-🔗 Repo: (add link)
+# 📈 Sales Forecasting & Budget vs Actual Dashboard (Excel)
+
+## 📌 Project Overview
+This project showcases a **sales forecasting and performance analysis dashboard built in Microsoft Excel**.
+
+The dashboard compares **latest year vs prior year sales and profit**, highlights **growth trends**, and supports **budget vs actual analysis** across product categories, customer segments, and regions.
+
+> 📌 *Note: Due to data confidentiality, the original Excel workbook is not shared.  
+Screenshots of the final dashboard are provided to demonstrate analytical and reporting capability.*
+
+---
+
+## 🛠 Tools & Skills Demonstrated
+- Microsoft Excel
+  - Pivot Tables & Pivot Charts
+  - KPI dashboards
+  - Year-over-Year (YoY) analysis
+  - Forecasting and trend analysis
+- Business performance reporting
+- Executive insight communication
+
+---
+
+## 📊 Dashboard Preview
+
+### 🔹 Forecasting & Performance Dashboard
+![Forecast Dashboard]()
+
+**Key elements shown:**
+- Sales & profit KPIs (Latest Year vs Prior Year)
+- Sales and profit growth percentages
+- Category-level performance (Furniture, Office Supplies, Technology)
+- Customer segments (Consumer, Corporate, Home Office)
+- Quarterly sales and price trends
+- Regional and state-level sales performance
+
+---
+
+## 📈 Key Insights
+- Sales and profit show strong **year-over-year growth**
+- Technology and Furniture are major revenue drivers
+- Certain sub-categories outperform others, indicating optimisation opportunities
+- Seasonal patterns support improved forecasting accuracy
+- Sales concentration in top states highlights geographic risk and opportunity
+
+---
+
+## 💼 Business Value
+This dashboard supports:
+- Sales forecasting and planning
+- Budget vs actual tracking
+- Executive decision-making
+- Identification of growth opportunities and underperformance
+
+It reflects real-world analytics used in **Senior Data Analyst, Client Insights, and Business Performance roles**.
+
+---
+
+🔗 **Repo:** *This repository*
+
 
 ### 3) Client Insights Report (SQL + Visuals)
 **Tools:** SQL, Excel, Tableau/Power BI  
