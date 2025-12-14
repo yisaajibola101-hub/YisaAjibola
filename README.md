@@ -117,9 +117,69 @@ It reflects real-world analytics used in **Senior Data Analyst, Client Insights,
 **Tools:** SQL, Excel, Tableau/Power BI  
 - KPI pack + short written narrative for decision-makers  
 - Data dictionary + assumptions  
-🔗 Repo: (add link)
+# 🍕 Client Insights & KPI Dashboard — Pizza Sales Analysis
+
+## 📌 Project Overview
+This project presents a **client insights and KPI analysis** based on an interactive **Pizza Sales Performance Dashboard**.
+
+The dashboard focuses on **sales performance, customer behaviour, seasonality, and product mix**, translating operational data into **clear business insights** for decision-makers.
+
+> 📌 **Note:** Due to data confidentiality, raw datasets and source files are not shared.  
+> This repository showcases the **final dashboard output and analytical interpretation**, reflecting real-world client analytics work.
 
 ---
+
+## 🛠 Tools & Skills Demonstrated
+- Business intelligence & KPI analysis
+- Performance reporting & trend analysis
+- Client insights storytelling
+- Executive-level dashboard interpretation
+- Decision-support analytics
+
+---
+
+## 📊 Dashboard Overview
+
+### 🔹 Pizza Sales KPI Dashboard
+![Pizza Sales Dashboard](images/pizza_sales_dashboard.png)
+
+**Key metrics included:**
+- Total revenue (€817.86K)
+- Average order value
+- Total orders and pizzas sold
+- Average pizzas per order
+- Daily and monthly order trends
+- Sales distribution by pizza category and size
+- Best- and worst-performing products
+
+---
+
+## 📈 Key Insights
+- Orders peak on **weekends**, particularly **Friday and Saturday evenings**
+- **July and January** show the highest monthly order volumes
+- **Classic pizza category** contributes the largest share of total sales
+- **Large-sized pizzas** generate the highest revenue contribution
+- Clear demand patterns support staffing, inventory, and promotion planning
+
+---
+
+## 💼 Business Value
+This analysis supports:
+- Sales performance monitoring
+- Product and pricing strategy
+- Operational planning (staffing & supply)
+- Marketing and promotion timing
+- Executive reporting and client presentations
+
+The structure and insights align with expectations for:
+- **Client Insights Analyst**
+- **Senior Data Analyst**
+- **Business Intelligence Analyst**
+
+---
+
+## 📁 Repository Structure
+
 
 ## 🧰 What I’m Building Next
 - More SQL case studies (CTEs, window functions)
