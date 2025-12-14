@@ -176,8 +176,6 @@ The structure and insights align with expectations for:
 - **Senior Data Analyst**
 - **Business Intelligence Analyst**
 
----
-
 
 
 ## 🧰 What I’m Building Next
