@@ -35,7 +35,6 @@ I turn complex datasets into **clear insights, stories, and recommendations** fo
 ---
 
 ## 📂 Featured Portfolio Projects (GitHub Repos)
-> Add links once you create each repository.
 
 ### 1) Regulatory Insights Dashboard (Tableau)
 **Tools:** Tableau, SQL, Excel  
@@ -82,7 +81,7 @@ Screenshots of the final dashboard are provided to demonstrate analytical and re
 ## 📊 Dashboard Preview
 
 ### 🔹 Forecasting & Performance Dashboard
-![Forecast Dashboard]()
+![Forecast Dashboard](images/forecast_dashboard_overview.png)
 
 **Key elements shown:**
 - Sales & profit KPIs (Latest Year vs Prior Year)
@@ -112,9 +111,6 @@ This dashboard supports:
 
 It reflects real-world analytics used in **Senior Data Analyst, Client Insights, and Business Performance roles**.
 
----
-
-🔗 **Repo:** *This repository*
 
 
 ### 3) Client Insights Report (SQL + Visuals)
